@@ -1,0 +1,27 @@
+*.pyo
+*.pyd
+*.sqlite3
+.env
+instance/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+dist/
+
+# Environment Variables
+.env
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+Backend/.env
+Frontend/.env
