@@ -41,10 +41,6 @@ MediCare delivers three core capabilities:
 
 ---
 
-## 🏆 Hackathon Context
-
-**Event:** Memory Over Models — AI Hackathon
-**Organizers:** HiDevs (GenAI workforce) × Qdrant (vector DB) × Lamatic (AI automation) × AI Collective (global AI community)
 
 ### How MediCare Demonstrates the Themes
 
@@ -58,19 +54,19 @@ MediCare delivers three core capabilities:
 
 | **Home Page**                                                                                             | **Features**                                                                                              | **Language Selector**                                                                                     |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| <img width="300" src="https://github.com/user-attachments/assets/a745d0d4-2199-4cee-a550-4c3fc3472c6e" /> | <img width="300" src="https://github.com/user-attachments/assets/83cf0d3d-79da-4e15-bf4a-2d9f35d20edf" /> | <img width="250" src="https://github.com/user-attachments/assets/7e4d4e41-3e5a-4190-a170-7a01b737e3cd" /> |
+| <img width="1899" height="870" alt="Screenshot 2026-05-25 184527" src="https://github.com/user-attachments/assets/c209c867-93e1-470d-906e-d78009917fa3" />| <img width="1896" height="890" alt="Screenshot 2026-05-25 184555" src="https://github.com/user-attachments/assets/540c7ff7-4184-43c8-b0b7-8b94a7712141" /> | <img width="492" height="631" alt="Screenshot 2026-05-25 203210" src="https://github.com/user-attachments/assets/9a8f1913-8de8-4acf-9408-2a45f935e85d" /> |
 
 | **Language Page**                                                                                         | **Processing Document**                                                                                   | **Medical File Chat (In-Memory)**                                                                         |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| <img width="300" src="https://github.com/user-attachments/assets/8975ce7d-cdf1-423e-88ea-e41052508733" /> | <img width="300" src="https://github.com/user-attachments/assets/3159c913-1b13-47ee-92e6-cedb096f5469" /> | <img width="300" src="https://github.com/user-attachments/assets/21ee5225-61ab-4b01-9404-670ad5c73b9b" /> |
+| <img width="1831" height="846" alt="Screenshot 2026-05-25 203341" src="https://github.com/user-attachments/assets/767033e2-6a9e-465d-91be-5566081830cc" /> | <img width="1604" height="878" alt="Screenshot 2026-05-25 203914" src="https://github.com/user-attachments/assets/043f08a3-1a24-41ce-9d34-058a261ea41f" /> | <img width="1304" height="831" alt="Screenshot 2026-05-25 204237" src="https://github.com/user-attachments/assets/a44da91a-168a-41f0-be55-0c6fccf4900e" /> |
 
 | **Medical Reasoning (Cloud)**                                                                             | **Universal File RAG Upload**                                                                             | **Technologies Used**                                                                                     |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| <img width="300" src="https://github.com/user-attachments/assets/895293f5-c9e2-46ec-bd3a-00690ad9d9df" /> | <img width="300" src="https://github.com/user-attachments/assets/a95236ee-ca19-49f9-a9de-44427eb60d30" /> | <img width="300" src="https://github.com/user-attachments/assets/f17bd8cb-09c3-482e-bfe5-8b708e031a5a" /> |
+| <img width="1832" height="913" alt="Screenshot 2026-05-25 184629" src="https://github.com/user-attachments/assets/4c0eed7a-74e9-4925-a3d2-dc4d94a463a4" /> |<img width="1204" height="720" alt="Screenshot 2026-05-25 205548" src="https://github.com/user-attachments/assets/7daab5ab-ef5a-46a5-a89c-ca2ad93dddd0" /> | <img width="1757" height="905" alt="Screenshot 2026-05-25 185030" src="https://github.com/user-attachments/assets/6b09cf91-904e-4659-8f93-aacf15f17100" /> |
 
 | **RAG Pipeline**                                                                                          | **How MediCare Works**                                                                                    | **Emergency SOS**                                                                                         |
 | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| <img width="300" src="https://github.com/user-attachments/assets/cea2e521-0377-473a-bdf2-3e9c341d44de" /> | <img width="300" src="https://github.com/user-attachments/assets/c79959f4-e5e9-4928-8eaf-1437bcb01a49" /> | <img width="300" src="https://github.com/user-attachments/assets/bb4f61a9-6497-4b2a-b708-b9188242a381" /> |
+| <img width="1197" height="746" alt="Screenshot 2026-05-25 210049" src="https://github.com/user-attachments/assets/d880f596-f7c3-41a6-bfe4-74f923f5fbd5" /> | <img width="1384" height="743" alt="Screenshot 2026-05-25 205926" src="https://github.com/user-attachments/assets/3dc8f8d4-c77a-472d-b5b2-e8a12dfdcdab" /> |<img width="1352" height="685" alt="Screenshot 2026-05-25 210231" src="https://github.com/user-attachments/assets/0fae64b5-0aa6-4666-9614-a14d1584e9b3" /> |
 
 ## 🧠 Qdrant-Powered Memory Architecture
 
@@ -472,7 +468,7 @@ MediCare/
 
 ---
 
-## 🎯 Hackathon Highlights
+## 🎯 Project Highlights
 
 ### 💡 Innovation Points
 
