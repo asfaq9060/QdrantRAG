@@ -613,7 +613,6 @@ SONAR_API_KEY=your_perplexity_api_key
 QDRANT_URL=your_qdrant_cloud_url
 QDRANT_API_KEY=your_qdrant_api_key
 ```
-
 ---
 
 ## 🔐 Environment Variables
